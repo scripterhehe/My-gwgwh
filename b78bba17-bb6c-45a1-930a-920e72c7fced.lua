@@ -1,0 +1,1 @@
+local bulletSpeed = 9999 -- Speed of the bullet in studs/second
